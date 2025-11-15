@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Clifford Wilson",
+  "home_page_url": "http://localhost:50914/",
+  "feed_url": "http://localhost:50914/feed.json",
+  "description": "Clifford's Personal Blog",
+  "favicon": "http://localhost:50914//assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "Clifford Wilson",
+    "url": "http://localhost:50914/"
+  },
+  "items": [
+    
+    
+
+    
+  ]
+}
