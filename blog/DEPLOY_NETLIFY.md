@@ -49,6 +49,7 @@ netlify deploy --prod --dir=public
 - Common fixes: set `HUGO_VERSION`, add missing env vars, or check that `public/` is the correct publish directory.
 
 If you want, I can now:
+
 - connect the repo to Netlify step-by-step (I’ll guide you through the UI), or
 - add a GitHub Action workflow to build and deploy automatically, or
 - configure a custom domain and HTTPS in Netlify.
