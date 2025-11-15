@@ -1,0 +1,11 @@
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+# Optionally pin a Hugo version Netlify should use. Change to the version you want.
+  HUGO_VERSION = "0.111.3"
+
+# If you use any environment variables (e.g., for private resources), add them here.
+# [build.environment]
+#   MY_VAR = "value"
