@@ -2,8 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50914/</loc>
+    <loc>https://cliffordwilson.netlify.app/</loc>
+    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50914/tags/</loc>
+    <loc>https://cliffordwilson.netlify.app/tags/journey/</loc>
+    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cliffordwilson.netlify.app/tags/life/</loc>
+    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cliffordwilson.netlify.app/posts/my-first-blog-post/</loc>
+    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cliffordwilson.netlify.app/posts/</loc>
+    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cliffordwilson.netlify.app/tags/</loc>
+    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
   </url>
 </urlset>

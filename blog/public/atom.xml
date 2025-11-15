@@ -3,15 +3,71 @@
     
     <title>Clifford Wilson</title>
     <description>Clifford&#39;s Personal Blog</description>
-    <link>http://localhost:50914/</link>
+    <link>https://cliffordwilson.netlify.app/</link>
     
     <language>en</language>
     <copyright>Copyright 2025, Calvin Tran</copyright>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
-    <atom:link href="http://localhost:50914//atom.xml" rel="self" type="application/atom+xml"/>
+    <atom:link href="https://cliffordwilson.netlify.app//atom.xml" rel="self" type="application/atom+xml"/>
     
+    
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://cliffordwilson.netlify.app/posts/my-first-blog-post/</link>
+      <description>&lt;p&gt;If you’re reading this, welcome to the beginning of my story. I’m Clifford — an 18-year-old Ghanaian who decided he’s not just going to use technology… I’m going to build with it, shape it, and hopefully disrupt a few industries while I’m at it.&lt;/p&gt;
+&lt;p&gt;Growing up (around 12 years old), I always wondered how games were built. One day I had an epiphany (🤣 or anyhow you would like to call it).
+I decided to learn how to build my own games, and that what exactly is stopping me?
+(Other than ECG sometimes… but we move.)&lt;/p&gt;
+&lt;p&gt;How I Entered the Tech World&lt;/p&gt;
+&lt;p&gt;My journey didn’t start with some fancy laptop or a Silicon Valley mentor.
+It started with curiosity… and YouTube tutorials loading at 240p on my Mom&amp;rsquo;s phone.&lt;/p&gt;
+&lt;p&gt;I started binge watching Brackeys (Unity Game Engine tutorials) then later I shifted my focus to Web Development
+I began with HTML and CSS, making tiny websites (I still have a laugh when I visit this site🥰 - &lt;a href=&#34;https://kingofprogramming.netlify.app/&#34;&gt;https://kingofprogramming.netlify.app/&lt;/a&gt;) that honestly looked like 2010 internet nostalgia. But it felt magical — the moment I wrote code and something actually appeared on the screen, I knew this was it.&lt;/p&gt;
+&lt;p&gt;From there I moved into Python, then Django, and suddenly the idea of building real web apps wasn’t far-fetched anymore.&lt;/p&gt;
+&lt;p&gt;Where I Am Now&lt;/p&gt;
+&lt;p&gt;Right now, I’m juggling:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning software engineering properly&lt;/li&gt;
+&lt;li&gt;Building apps with Django and React&lt;/li&gt;
+&lt;li&gt;Studying for school&lt;/li&gt;
+&lt;li&gt;And dreaming of launching a startup from Ghana that goes global&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sometimes it feels overwhelming. Sometimes I’m hyped.
+Sometimes my laptop decides to misbehave and test my Christian patience.
+But this is the grind. This is the journey.&lt;/p&gt;
+&lt;p&gt;The Challenges? Oh, Plenty.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slow internet (Ghana WiFi is like a spiritual battle sometimes).&lt;/li&gt;
+&lt;li&gt;Limited resources.&lt;/li&gt;
+&lt;li&gt;Feeling behind others online. Mostly I feel embarassed to share my small progresses&lt;/li&gt;
+&lt;li&gt;Wondering if I’ll ever reach FAANG or build something worth billions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But here’s the mindset change that saved me:
+Tech has no gatekeepers anymore. Your location doesn’t define your ceiling — your consistency does.&lt;/p&gt;
+&lt;p&gt;My Big Vision&lt;/p&gt;
+&lt;p&gt;I’m not learning tech just for vibes.
+I want to:&lt;/p&gt;
+&lt;p&gt;Build powerful apps
+Start my own company
+Create something meaningful
+And use tech to win souls and help people&lt;/p&gt;
+&lt;p&gt;Yeah, I know — big goals.
+But you know what? Every big tech founder started with a small, shaky step.&lt;/p&gt;
+&lt;p&gt;This is mine.&lt;/p&gt;
+&lt;p&gt;Why I’m Starting This Blog&lt;/p&gt;
+&lt;p&gt;Simple:
+I want to document my journey — the wins, the failures, the bugs that nearly made me cry, the ideas that might become something huge one day.&lt;/p&gt;
+&lt;p&gt;If you’re a young Ghanaian (or anywhere around the world) trying to enter tech, I hope my posts help you feel less alone.&lt;/p&gt;
+&lt;p&gt;Because if there’s one thing I’ve learned already, it’s this:
+You don’t need permission to start. You just need to start.&lt;/p&gt;
+&lt;p&gt;And this… is the start.&lt;/p&gt;
+</description>
+      <author>Clifford Wilson</author>
+      <guid>https://cliffordwilson.netlify.app/posts/my-first-blog-post/</guid>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
     
   </channel>
 </rss>

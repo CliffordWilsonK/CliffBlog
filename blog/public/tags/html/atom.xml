@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html on Clifford Wilson</title>
+    <link>http://localhost:58503/tags/html/</link>
+    <description>Recent content in Html on Clifford Wilson</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:58503/tags/html/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:58503/posts/my-first-blog-post/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58503/posts/my-first-blog-post/</guid>
+      <description>&lt;p&gt;If you’re reading this, welcome to the beginning of my story. I’m Clifford — an 18-year-old Ghanaian who decided he’s not just going to use technology… I’m going to build with it, shape it, and hopefully disrupt a few industries while I’m at it.&lt;/p&gt;&#xA;&lt;p&gt;Growing up (around 12 years old), I always wondered how games were built. One day I had an epiphany (🤣 or anyhow you would like to call it).&#xA;I decided to learn how to build my own games, and that what exactly is stopping me?&#xA;(Other than ECG sometimes… but we move.)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
