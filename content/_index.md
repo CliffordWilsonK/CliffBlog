@@ -10,5 +10,5 @@ When I'm not coding, you'll probably find me exploring new tech trends, working 
 
 Let's build something amazing together. 🚀
 
-- 📺 Demo: https://cliffordwilson.dev
+- 📺 Website: https://cliffordwilson.dev
 - ❤️ Github: https://github.com/CliffordWilsonK
