@@ -1,7 +1,7 @@
 +++
 author = "Clifford Wilson"
 title = "NSMQ tutor model"
-date = "2025-12-3"
+date = "2025-12-03"
 description = "Fine-tuning an AI model to help students become NSMQ pros"
 tags = [
     "AI",
